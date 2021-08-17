@@ -4,26 +4,36 @@ Repositório com todos os recursos adicionais reunidos!
 
 ## Fundamentos do Desenvolvimento Web :white_check_mark:
 
-##### Bloco 1: Introdução - Unix & Shell
+##### Bloco 1: Introdução - Unix & Bash
 
 - [x] 1-3: _Unix e Bash - Parte 1_
 
-_Aprenda os comandos básicos do Linux_(https://www.youtube.com/watch?v=JEhVB4VHsTI)
+* _Aprenda os comandos básicos do Linux_(https://www.youtube.com/watch?v=JEhVB4VHsTI)
 
-*Comandos importantes que você deveria saber* (https://www.howtogeek.com/412055/37-important-linux-commands-you-should-know/)
+* _Comandos importantes que você deveria saber_ (https://www.howtogeek.com/412055/37-important-linux-commands-you-should-know/)
 
-Curso grátis da udacity sobre linha de comando (https://www.udacity.com/course/linux-command-line-basics--ud595)
+* _Curso grátis da udacity sobre linha de comando_ (https://www.udacity.com/course/linux-command-line-basics--ud595)
 
-Curso grátis da udacity sobre shell
-Aprenda sobre o sistema de arquivos do Linux
-Referência bem completa sobre shell, terminal e linux
-Guia do bash para iniciantes
-A importância do modo texto.
-⚠️ O sinal de % não é necessário antes da execução dos comandos listados nos links dos conteúdos abaixo.
-Unix - Conhecendo a estrutura de arquivos e o terminal
-Unix - Trabalhando com diretórios
-Unix - Operações com arquivos e diretórios
-Unix - Nomeando arquivos e como procurar ajuda no Terminal
+* _Curso grátis da udacity sobre shell_ (https://www.udacity.com/course/shell-workshop--ud206)
+
+* _Aprenda sobre o sistema de arquivos do Linux_ (https://www.youtube.com/watch?v=HIXzJ3Rz9po)
+
+* _Referência bem completa sobre shell, terminal e linux_ (http://linuxcommand.org/index.php)
+
+* _Guia do bash para iniciantes_ (https://www.youtube.com/watch?v=oxuRxtrO2Ag)
+
+* _A importância do modo texto_ (https://www.vivaolinux.com.br/artigo/A-importancia-do-modo-texto)
+
+⚠️ O sinal de % não é necessário antes da execução dos 
+comandos listados nos links dos conteúdos abaixo.
+
+* _Unix - Conhecendo a estrutura de arquivos e o terminal_ (http://www.ee.surrey.ac.uk/Teaching/Unix/unixintro.html)
+
+* _Unix - Trabalhando com diretórios_ (http://www.ee.surrey.ac.uk/Teaching/Unix/unix1.html)
+
+* _Unix - Operações com arquivos e diretórios_ (http://www.ee.surrey.ac.uk/Teaching/Unix/unix2.html)
+
+* _Unix - Nomeando arquivos e como procurar ajuda no Terminal_ (http://www.ee.surrey.ac.uk/Teaching/Unix/unix4.html)
 
 - [ ] 1-4: _Unix & Shell- Part 2_
 
