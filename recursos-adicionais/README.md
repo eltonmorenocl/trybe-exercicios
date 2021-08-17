@@ -40,3 +40,4 @@ Unix - Nomeando arquivos e como procurar ajuda no Terminal
 - [ ] 3-3: _HTML & CSS - Seletores e posicionamento_
 - [ ] 3-4: _HTML SemÃ¢ntico_
 - [ ] 3-5: _[Projeto - HTML & CSS]()_
+teste
