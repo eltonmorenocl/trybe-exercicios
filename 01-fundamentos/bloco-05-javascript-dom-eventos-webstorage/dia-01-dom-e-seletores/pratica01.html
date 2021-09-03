@@ -85,13 +85,15 @@
             let mudarTag = document.getElementsByTagName('p')[0];
             mudarTag.innerHTML = "Texto padrão do nosso site".toUpperCase() 
           }
-            maiusculo()
-
-
+            maiusculo()            
         // 6. Crie uma função que exiba o conteúdo de todas as tags <p> no console.
-      
-
-
+          function tags() {
+            let mudarTags = document.getElementsByTagName('p');
+            for (let index = 0; index < mudarTags.length ; index += 1){
+            console.log(mudarTags[index].innerHTML);
+            }
+          }
+            tags()
     </script>
   </body>
 </html>
