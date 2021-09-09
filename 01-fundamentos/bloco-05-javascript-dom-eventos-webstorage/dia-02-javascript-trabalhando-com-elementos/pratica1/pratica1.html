@@ -67,6 +67,18 @@
      elementoMain.className = "main-content";
      document.body.appendChild(elementoMain);   
 
+    //  3. Adicione a tag section com a classe center-content como filho da tag main criada no passo 2;
+     let elementoSection = document.createElement('section');
+     elementoSection.className = "center-content";
+     elementoMain.appendChild(elementoSection);
+    
+    //  4. Adicione a tag p como filho do section criado no passo 3 e coloque algum texto;
+     let elementoTag = document.createElement('p');
+     elementoTag.innerText = "Estudando a criação de tags html via javascript"
+     elementoSection.appendChild(elementoTag);
+
+
+
    </script>
   </body>
 </html>
