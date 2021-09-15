@@ -49,3 +49,8 @@ function createDays() {
   }
 createDays ();
 
+// 2.
+
+function holiday() {
+  
+}
