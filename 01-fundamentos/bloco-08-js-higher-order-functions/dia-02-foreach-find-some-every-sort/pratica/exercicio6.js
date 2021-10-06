@@ -63,20 +63,15 @@ const books = [
   },
 ];
 
-// 2 - Retorne o nome do livro de menor nome.
-
-// Dica: use a função forEach .
+// 6 - Faça uma função que retorne true , se algum livro foi lançado na década de 80, e false , caso contrário.
 
 
-function smallerName() {
-  let nameBook;
-  // escreva aqui o seu código
-  books.forEach((book) => {
-    if (!nameBook || book.name.length < nameBook.length) {
-      nameBook = book.name
-    }
-  });
-  return nameBook;
+const expectedResult = true;
+
+function someBookWasReleaseOnThe80s() {
+  return books.some((book) => 
+  book.releaseYear >= 1980 && book.releaseYear < 1990
+  );
 }
 
-assert.strictEqual(smallerName(), 'Duna');
+assert.strictEqual(someBookWasReleaseOnThe80s(), expectedResult);

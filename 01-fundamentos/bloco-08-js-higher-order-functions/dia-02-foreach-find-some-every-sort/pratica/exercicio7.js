@@ -63,20 +63,13 @@ const books = [
   },
 ];
 
-// 2 - Retorne o nome do livro de menor nome.
-
-// Dica: use a função forEach .
+// 7 - Faça uma função que retorne true , caso nenhum author tenha nascido no mesmo ano, e false , caso contrário.
 
 
-function smallerName() {
-  let nameBook;
-  // escreva aqui o seu código
-  books.forEach((book) => {
-    if (!nameBook || book.name.length < nameBook.length) {
-      nameBook = book.name
-    }
-  });
-  return nameBook;
+const expectedResult = false;
+
+function authorUnique() {
+  // escreva seu código aqui
 }
 
-assert.strictEqual(smallerName(), 'Duna');
+assert.strictEqual(authorUnique(), expectedResult);
